@@ -10,7 +10,7 @@ Fast-Food-Fast is a food delivery service app for a restaurant.
 * gh-pages - for hosting in the GitHub Pages.
 
 ### Hosting
-[fast-food-fast] (https://nyakaru.github.io/fast-food-fast/) - hosts the UI templates developed.
+[fast-food-fast](https://nyakaru.github.io/fast-food-fast/) - hosts the UI templates developed.
 
 ### Author
 Developed by:
