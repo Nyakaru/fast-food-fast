@@ -11,6 +11,10 @@
     color:green;
 }
 
+h1 {
+    color: white;
+}
+
 #price{   
           font-weight: light;
           font-size: 30px;
